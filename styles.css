@@ -1,31 +1,31 @@
-.wrapper{
+.wrapper {
   margin: auto;
   width: 80%;
 }
 
-.header{
+.header {
   display: flex;
   justify-content: space-between;
 }
 
-.logo,.menu{
+.logo,.menu {
   display: inline-block;
 }
 
-.logo{
+.logo {
   padding: 40px 0;
 }
 
-.menu{
+.menu {
   display: flex;
   align-items: center;
 }
 
-.menu__item{
+.menu__item {
   padding: 0 13px;
 }
 
-.menu__item:last-child{
+.menu__item:last-child {
   padding: 0;
 }
 
